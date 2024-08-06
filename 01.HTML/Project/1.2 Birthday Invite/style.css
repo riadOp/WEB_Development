@@ -1,0 +1,38 @@
+html{
+    background-color: #D3D9E4;
+}
+h1{
+    text-align: center;
+    color: #384D92;
+}
+.hehe{
+    color: #384D92;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: #384D92;
+}
+.meow{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.Ballon{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.cake{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.map{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+ul{
+    text-align: center;
+}

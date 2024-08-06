@@ -1,0 +1,83 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color: #faf9f6;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+  background-color: antiquewhite;
+}
+#Beauty{
+  color:blueviolet
+}
+#Con{
+  color:gray;
+}
+#Elli{
+  color:lightseagreen
+}
+#Thun{
+  color:rgb(138, 138, 65);
+}
+.main {
+  flex: 1;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+footer {
+  text-align: center;
+  color: midnightblue;
+}
+.creative{
+  color: purple;
+}
+.left{
+  float: left;
+  width: 50%;
+}
+.right{
+  width: 50%;
+  float: right;
+}
+.tile-image{
+  float: left;
+  height: 200px;
+  margin:20px;
+}
+#leftt{
+  float:left;
+  width:50%;
+}
+#thunder{
+  float: right;
+  width:50%;
+}
+
+@media (max-width : 600px){
+  h1{
+    font-size: 3rem;
+    text-align: center;
+  }
+  .left{
+    display: block;
+    width: 100%;
+  }
+  .right{
+    display: block;
+    width: 100%;
+  }
+  .tile-image{
+    width: 100%;
+  }
+  #leftt{
+    display: block;
+    width:100%;
+  }
+  #thunder{
+    display:block;
+    width:100%;
+  }
+}
